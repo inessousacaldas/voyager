@@ -13,13 +13,13 @@ An "Asteroids" inspired game made with Unity
 
 ### Collectables
 - [x] Shield - makes the player invulnerable for some period of time
-- [x] Life - the player regains a life (if not full)
+- [x] Life - the player regains a life, if not full. If full, gains points.
 - [x] Energy - the player's energy is restored
 
 ### Asteroids
 - [x] Rock - the player loses one life if he hits the asteroid
-- [x] Ice - same as the Rock asteroid, but when destroid explodes and can make the player lose one life
-- [ ] Metal - same as the Rock, but consumes the player's energy if too close to the player.
+- [x] Ice - same as the Rock asteroid, but explodes when destroid. If the player is inside the area of effect, he loses one life
+- [ ] Metal - same as the Rock, but consumes the player's energy while the player it's inside the area of effect
 
 ### Alien 
 - [ ] Follows the player and shoots at him
@@ -36,7 +36,6 @@ An "Asteroids" inspired game made with Unity
 ### Asteroids
 ![Main Menu](img/asteroids.png "Asteroids")
 ### Screen Designs
-
 ![Main Menu](img/screen_designs/Main_title.jpg "Main Title")
 ![Options Menu](img/screen_designs/Options_menu_01.jpg "Options Menu")
 ![Loading Screen](img/screen_designs/Loading_screen.jpg "Loading Screen")
@@ -47,5 +46,6 @@ An "Asteroids" inspired game made with Unity
 ![High Scores](img/screen_designs/Scores_menu_01.jpg "High Scores")
 
 __Authors__
+__Team Paranoid of Fox__
 * [Inês Caldas](https://github.com/inessousacaldas) (Programmer)
 * [Vítor Novo](https://www.artstation.com/vitornovo) (2D/3D Designer and Animator)
