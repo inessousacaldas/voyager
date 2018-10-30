@@ -50,6 +50,6 @@ Test Ship                  | Test Asteroids
 ![High Scores](img/screen_designs/Scores_menu_01.jpg "High Scores")
 
 ## Authors ##
-__Team Paranoid of Fox__
+__Team Paranoid Fox__
 * [Inês Caldas](https://github.com/inessousacaldas) (Programmer)
 * [Vítor Novo](https://www.artstation.com/vitornovo) (2D/3D Designer and Animator)
