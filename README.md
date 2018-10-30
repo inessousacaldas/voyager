@@ -1,6 +1,10 @@
 # Voyager [ongoing]
 An "Asteroids" inspired game made with Unity
 
+Test Ship                  | Test Asteroids
+:-------------------------:|:-------------------------:
+![Test Ships](img/tests/ship_test.gif "Test Ship")  |  ![Test Asteroids](img/tests/asteroids_test.gif "Asteroid Ship")
+
 ## Game Mechanics
 
 ### The player controls the spaceship and can:
@@ -45,7 +49,7 @@ An "Asteroids" inspired game made with Unity
 ![Game Over](img/screen_designs/Game_over_screen.jpg "Game Over")
 ![High Scores](img/screen_designs/Scores_menu_01.jpg "High Scores")
 
-__Authors__
+## Authors ##
 __Team Paranoid of Fox__
 * [Inês Caldas](https://github.com/inessousacaldas) (Programmer)
 * [Vítor Novo](https://www.artstation.com/vitornovo) (2D/3D Designer and Animator)
