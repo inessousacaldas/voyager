@@ -1,9 +1,9 @@
 # Voyager [ongoing]
 An "Asteroids" inspired game made with Unity
 
-Test Ship                  | Test Asteroids
+Test Title Screen          | Test Asteroids
 :-------------------------:|:-------------------------:
-![Test Ships](img/tests/ship_test.gif "Test Ship")  |  ![Test Asteroids](img/tests/asteroids_test.gif "Asteroid Ship")
+![Test Ships](img/tests/title_screen.gif "Test Ship")  |  ![Test Asteroids](img/tests/asteroids_test.gif "Asteroid Ship")
 
 ## Game Mechanics
 
