@@ -1,9 +1,11 @@
 # Voyager [ongoing]
 An "Asteroids" inspired game made with Unity
 
-Test Ship                  | Test Asteroids
+Test Ship                  | Test InGame Environment
 :-------------------------:|:-------------------------:
-![Test Ships](img/tests/ship_test.gif "Test Ship")  |  ![Test Asteroids](img/tests/asteroids_test.gif "Asteroid Ship")
+![Test Ships](img/tests/ship_test.gif "Test Ship")  |  ![InGame Environment](img/tests/ingame_environment_test.gif "InGame Environment")
+
+Check more videos [here](https://www.youtube.com/watch?v=Gl5edisFiVY&t=0s&index=2&list=PL0ESwRe-UpiIpnq1bvXM8yWuVzJ9-KuDC).
 
 ## Game Mechanics
 
@@ -17,7 +19,7 @@ Test Ship                  | Test Asteroids
 
 ### Collectables
 - [x] Shield - makes the player invulnerable for some period of time
-- [x] Life - the player regains a life, if not full. If full, gains points.
+- [x] Life - the player regains a life, if not full. If full, gains points
 - [x] Energy - the player's energy is restored
 
 ### Asteroids
@@ -27,7 +29,7 @@ Test Ship                  | Test Asteroids
 
 ### Alien 
 - [ ] Follows the player and shoots at him
-- [ ] Improved aim, as the game progresses.
+- [ ] Improved aim, as the game progresses
 
 ### Other TODO List
 - [ ] Highscores
@@ -41,7 +43,7 @@ Test Ship                  | Test Asteroids
 ![Main Menu](img/asteroids.png "Asteroids")
 ### Screen Designs
 ![Main Menu](img/screen_designs/Main_title.jpg "Main Title")
-![Options Menu](img/screen_designs/Options_menu_01.jpg "Options Menu")
+![Options Menu](img/screen_designs/Options_screen-Credits.jpg "Options Menu")
 ![Loading Screen](img/screen_designs/Loading_screen.jpg "Loading Screen")
 ![Begin Screen](img/screen_designs/Begin_spacer.jpg "Begin Screen")
 ![In Game](img/screen_designs/In_game.jpg "In Game")
@@ -51,5 +53,6 @@ Test Ship                  | Test Asteroids
 
 ## Authors ##
 __Team Paranoid Fox__
-* [Inês Caldas](https://github.com/inessousacaldas) (Programmer)
-* [Vítor Novo](https://www.artstation.com/vitornovo) (2D/3D Designer and Animator)
+* [Inês Caldas](https://github.com/inessousacaldas) (Programming)
+* Margarida Pessoa(Music)
+* [Vítor Novo](https://www.artstation.com/vitornovo) (Animation and Design)
