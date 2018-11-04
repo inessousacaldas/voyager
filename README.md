@@ -1,9 +1,9 @@
 # Voyager [ongoing]
 An "Asteroids" inspired game made with Unity
 
-Test Ship                  | Test InGame Environment
+Test Title Screen                  | Test InGame Environment
 :-------------------------:|:-------------------------:
-![Test Ships](img/tests/ship_test.gif "Test Ship")  |  ![InGame Environment](img/tests/ingame_environment_test.gif "InGame Environment")
+![Test Title Screen](img/tests/title_screen.gif "Title Screen")  |  ![InGame Environment](img/tests/ingame_environment_test.gif "InGame Environment")
 
 Check more videos [here](https://www.youtube.com/watch?v=Gl5edisFiVY&t=0s&index=2&list=PL0ESwRe-UpiIpnq1bvXM8yWuVzJ9-KuDC).
 
@@ -43,7 +43,7 @@ Check more videos [here](https://www.youtube.com/watch?v=Gl5edisFiVY&t=0s&index=
 ![Main Menu](img/asteroids.png "Asteroids")
 ### Screen Designs
 ![Main Menu](img/screen_designs/Main_title.jpg "Main Title")
-![Options Menu](img/screen_designs/Options_screen-Credits.jpg "Options Menu")
+![Options Menu](img/screen_designs/Options_screen-Credits.png "Options Menu")
 ![Loading Screen](img/screen_designs/Loading_screen.jpg "Loading Screen")
 ![Begin Screen](img/screen_designs/Begin_spacer.jpg "Begin Screen")
 ![In Game](img/screen_designs/In_game.jpg "In Game")
@@ -54,5 +54,5 @@ Check more videos [here](https://www.youtube.com/watch?v=Gl5edisFiVY&t=0s&index=
 ## Authors ##
 __Team Paranoid Fox__
 * [Inês Caldas](https://github.com/inessousacaldas) (Programming)
-* Margarida Pessoa(Music)
+* Margarida Pessoa (Music)
 * [Vítor Novo](https://www.artstation.com/vitornovo) (Animation and Design)
