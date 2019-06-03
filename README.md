@@ -54,5 +54,9 @@ Check more videos [here](https://www.youtube.com/watch?v=Gl5edisFiVY&t=0s&index=
 ## Authors ##
 __Team Paranoid Fox__
 * [Inês Caldas](https://github.com/inessousacaldas) (Programming)
-* Margarida Pessoa (Music)
 * [Vítor Novo](https://www.artstation.com/vitornovo) (Animation and Design)
+
+## License
+
+Copyright © 2019, [Inês de Sousa Caldas](https://github.com/inessousacaldas) & [Vítor Novo](https://www.artstation.com/vitornovo).
+All rights reserved.
